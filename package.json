@@ -1,0 +1,20 @@
+{
+  "scripts": {
+    "start": "parcel index.html",
+    "test": "jest",
+    "build": "parcel build index.html"
+  },
+  "devDependencies": {
+    "parcel": "^2.11.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.22.2",
+    "yup": "^0.32.11",
+    "cors": "^2.8.5",
+    "formik": "^2.2.9",
+    "react-icons": "^4.7.1"
+  }
+}
