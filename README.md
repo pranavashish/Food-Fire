@@ -1,12 +1,12 @@
-# FoodFire
+# [FoodFire - Food Ordering Webapp 🚀 ](https://food-fire.vercel.app/)  
 
 Order food from the comfort of your home with FoodFire! We showcase the latest restaurants available in your city, providing you with all the necessary details. Simply pick a dish, add it to your cart, place your order, and get it delivered straight to your door.
 
+### [Live 🚀 ](https://food-fire.vercel.app/)
 ## Tech - Stack
 
 - Frontend Library: React JS
 - Styling: Tailwind CSS
-- Database: Firebase
 - Bundler: Parcel
 - State Management: Redux Toolkit
 
